@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I am Bogdan,14, And this is my portofolio in python<br>
+Hello I am Bogdan, And this is my portofolio in python<br>
 
 
 # 💻 Tech Stack:
